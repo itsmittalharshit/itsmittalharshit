@@ -1,6 +1,6 @@
 <!-- Banner Image -->
 <p align="center">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" alt="Banner" width="100%">
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" alt="Banner" width="50%">
 </p>
 
 <h1 align="center">Hi 👋, I'm Harshit Mittal</h1>
@@ -39,16 +39,7 @@
 ### 🛠️ Languages and Tools
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=python,cpp,git,linux,tensorflow,pytorch,opencv,github,vscode,react,nodejs" />
-</p>
-
----
-
-### 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical" alt="GitHub stats" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=yourusername&theme=radical" alt="GitHub Streak" width="48%" />
+  <img src="https://skillicons.dev/icons?i=python,cpp,git,linux,tensorflow,pytorch,opencv,github,vscode" />
 </p>
 
 ---
