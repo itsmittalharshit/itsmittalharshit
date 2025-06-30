@@ -1,24 +1,27 @@
 <!-- Banner Image -->
 <p align="center">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" alt="Coder GIF" width="50%" />
-  <img src="https://i.pinimg.com/originals/79/9e/0d/799e0d7779f6ea6c3a89885ff60c55af.gif" alt="Tech Skills GIF" width="50%" />
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" alt="Coder GIF" width="45%" />
+  <img src="https://i.pinimg.com/originals/79/9e/0d/799e0d7779f6ea6c3a89885ff60c55af.gif" alt="Tech Skills GIF" width="45%" />
 </p>
 
 <h1 align="center">Hi 👋, I'm Harshit Mittal</h1>
 <h3 align="center">🚀 Passionate about AI, Deep Learning & Problem Solving</h3>
 
 <p align="center">
-  <a href="https://linkedin.com/in/yourlinkedin" target="_blank">
+  <a href="https://linkedin.com/in/theharshitmittal" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   <a href="mailto:mittalharshit99@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
-  <a href="https://www.hackerrank.com/your-hackerrank-username" target="_blank">
+  <a href="https://www.hackerrank.com/theharshitmittal" target="_blank">
     <img src="https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white" />
   </a>
   <a href="https://yourcvhost.com/Harshit_Mittal_CV.pdf" target="_blank">
     <img src="https://img.shields.io/badge/Resume-%23ffbf00.svg?&style=for-the-badge&logo=adobeacrobatreader&logoColor=white" />
+  </a>
+  <a href="https://www.youtube.com/@yourchannelid" target="_blank">
+    <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" />
   </a>
   <a href="https://www.buymeacoffee.com/yourusername" target="_blank">
     <img src="https://img.shields.io/badge/Buy%20Me%20a%20Coffee-%23FFDD00.svg?&style=for-the-badge&logo=buy-me-a-coffee&logoColor=black" />
@@ -52,7 +55,8 @@
 
 - 📫 **Email**: mittalharshit99@gmail.com  
 - 💼 **LinkedIn**: [linkedin.com/in/yourlinkedin](https://linkedin.com/in/yourlinkedin)  
-- 📄 **Resume**: [Download Here](https://yourcvhost.com/Harshit_Mittal_CV.pdf)  
+- 📄 **Resume**: [Download Here](https://yourcvhost.com/Harshit_Mittal_CV.pdf)
+-  📺 **YouTube**: [youtube.com/@yourchannelid](https://www.youtube.com/@yourchannelid)
 - ☕ **Support**: [Buy Me a Coffee](https://www.buymeacoffee.com/yourusername) | [Patreon](https://www.patreon.com/yourusername)
 
 ---
