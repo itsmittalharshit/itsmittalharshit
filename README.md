@@ -1,13 +1,68 @@
-## Hi there 👋
+<!-- Banner Image -->
+<p align="center">
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" alt="Banner" width="100%">
+</p>
 
-<!--
+<h1 align="center">Hi 👋, I'm Harshit Mittal</h1>
+<h3 align="center">🚀 Passionate about AI, Deep Learning & Problem Solving</h3>
 
-- 🔭 I’m currently working on 
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p align="center">
+  <a href="https://linkedin.com/in/yourlinkedin" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="mailto:mittalharshit99@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://yourcvhost.com/Harshit_Mittal_CV.pdf" target="_blank">
+    <img src="https://img.shields.io/badge/Resume-%23ffbf00.svg?&style=for-the-badge&logo=adobeacrobatreader&logoColor=white" />
+  </a>
+  <a href="https://www.buymeacoffee.com/yourusername" target="_blank">
+    <img src="https://img.shields.io/badge/Buy%20Me%20a%20Coffee-%23FFDD00.svg?&style=for-the-badge&logo=buy-me-a-coffee&logoColor=black" />
+  </a>
+  <a href="https://www.patreon.com/yourusername" target="_blank">
+    <img src="https://img.shields.io/badge/Support%20me%20on-Patreon-F96854?style=for-the-badge&logo=patreon&logoColor=white" />
+  </a>
+</p>
+
+---
+
+### 👨‍💻 About Me
+
+- 🎓 I'm currently working on **Machine Learning and Vision-based Research Projects**
+- 🛠️ Enhancing my skills in **Software Development and Blockchain**
+- 🌱 Exploring **Model Ensembling, Data Balancing, Efficient Training Pipelines, Web3, and AI**
+- 💡 I love solving **complex algorithmic challenges** and contributing to **open-source**
+- 💬 Ask me about **Deep Learning, Computer Vision, C++/Python, Blockchain, or anything you’re curious about!**
+
+---
+
+### 🛠️ Languages and Tools
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=python,cpp,git,linux,tensorflow,pytorch,opencv,github,vscode,react,nodejs" />
+</p>
+
+---
+
+### 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical" alt="GitHub stats" width="48%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=yourusername&theme=radical" alt="GitHub Streak" width="48%" />
+</p>
+
+---
+
+### 🌐 Connect with Me!
+
+- 📫 **Email**: mittalharshit99@gmail.com  
+- 💼 **LinkedIn**: [linkedin.com/in/yourlinkedin](https://linkedin.com/in/yourlinkedin)  
+- 📄 **Resume**: [Download Here](https://yourcvhost.com/Harshit_Mittal_CV.pdf)  
+- ☕ **Support**: [Buy Me a Coffee](https://www.buymeacoffee.com/yourusername) | [Patreon](https://www.patreon.com/yourusername)
+
+---
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&pause=1000&color=FF6B00&center=true&vCenter=true&width=435&lines=Happy+Coding!+🚀;Let's+build+something+awesome!" />
+</p>
+
