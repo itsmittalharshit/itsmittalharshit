@@ -14,7 +14,7 @@
   <a href="mailto:mittalharshit99@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
-  <a href="https://www.hackerrank.com/theharshitmittal" target="_blank">
+  <a href="https://www.hackerrank.com/profile/mittalharshit99" target="_blank">
     <img src="https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white" />
   </a>
   <a href="https://yourcvhost.com/Harshit_Mittal_CV.pdf" target="_blank">
@@ -54,7 +54,7 @@
 ### 🌐 Connect with Me!
 
 - 📫 **Email**: mittalharshit99@gmail.com  
-- 💼 **LinkedIn**: [linkedin.com/in/yourlinkedin](https://linkedin.com/in/yourlinkedin)  
+- 💼 **LinkedIn**: [linkedin.com/in/theharshitmittal](https://linkedin.com/in/theharshitmittal)  
 - 📄 **Resume**: [Download Here](https://yourcvhost.com/Harshit_Mittal_CV.pdf)
 -  📺 **YouTube**: [youtube.com/@yourchannelid](https://www.youtube.com/@yourchannelid)
 - ☕ **Support**: [Buy Me a Coffee](https://www.buymeacoffee.com/yourusername) | [Patreon](https://www.patreon.com/yourusername)
