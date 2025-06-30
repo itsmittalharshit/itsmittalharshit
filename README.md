@@ -37,7 +37,7 @@
 
 - 🎓 I'm currently working on **Machine Learning and Vision-based Research Projects**
 - 🛠️ Enhancing my skills in **Software Development and Blockchain**
-- 🌱 Exploring **Model Ensembling, Data Balancing, Efficient Training Pipelines, Web3, and AI**
+- 🌱 Exploring **Model Ensembling, Data Balancing, Efficient Training Pipelines, and AI**
 - 💡 I love solving **complex algorithmic challenges** and contributing to **open-source**
 - 💬 Ask me about **Deep Learning, Computer Vision, C++/Python, Blockchain, or anything you’re curious about!**
 
