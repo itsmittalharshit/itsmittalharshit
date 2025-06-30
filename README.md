@@ -5,7 +5,7 @@
 </p>
 
 <h1 align="center">Hi 👋, I'm Harshit Mittal</h1>
-<h3 align="center">🚀 Passionate about AI, Deep Learning & Problem Solving</h3>
+<h3 align="center">🚀 Passionate about AI, Software Developing & Problem Solving</h3>
 
 <p align="center">
   <a href="https://linkedin.com/in/theharshitmittal" target="_blank">
