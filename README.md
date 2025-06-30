@@ -1,6 +1,7 @@
 <!-- Banner Image -->
 <p align="center">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" alt="Banner" width="50%">
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" alt="Coder GIF" width="45%" />
+  <img src="https://media.giphy.com/media/kH1DBkPNyZPOk0BxrM/giphy.gif" alt="Tech Skills GIF" width="45%" />
 </p>
 
 <h1 align="center">Hi 👋, I'm Harshit Mittal</h1>
