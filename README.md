@@ -1,7 +1,7 @@
 <!-- Banner Image -->
 <p align="center">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" alt="Coder GIF" width="45%" />
-  <img src="https://i.pinimg.com/originals/79/9e/0d/799e0d7779f6ea6c3a89885ff60c55af.gif" alt="Tech Skills GIF" width="45%" />
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" alt="Coder GIF" width="50%" />
+  <img src="https://i.pinimg.com/originals/79/9e/0d/799e0d7779f6ea6c3a89885ff60c55af.gif" alt="Tech Skills GIF" width="50%" />
 </p>
 
 <h1 align="center">Hi 👋, I'm Harshit Mittal</h1>
