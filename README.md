@@ -26,9 +26,6 @@
   <a href="https://www.buymeacoffee.com/yourusername" target="_blank">
     <img src="https://img.shields.io/badge/Buy%20Me%20a%20Coffee-%23FFDD00.svg?&style=for-the-badge&logo=buy-me-a-coffee&logoColor=black" />
   </a>
-  <a href="https://www.patreon.com/yourusername" target="_blank">
-    <img src="https://img.shields.io/badge/Support%20me%20on-Patreon-F96854?style=for-the-badge&logo=patreon&logoColor=white" />
-  </a>
 </p>
 
 ---
@@ -57,7 +54,7 @@
 - 💼 **LinkedIn**: [linkedin.com/in/theharshitmittal](https://linkedin.com/in/theharshitmittal)  
 - 📄 **Resume**: [Download Here](https://yourcvhost.com/Harshit_Mittal_CV.pdf)
 -  📺 **YouTube**: [youtube.com/@yourchannelid](https://www.youtube.com/@yourchannelid)
-- ☕ **Support**: [Buy Me a Coffee](https://www.buymeacoffee.com/yourusername) | [Patreon](https://www.patreon.com/yourusername)
+- ☕ **Support**: [Buy Me a Coffee](https://www.buymeacoffee.com/yourusername)
 
 ---
 
