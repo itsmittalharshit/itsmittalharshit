@@ -23,7 +23,7 @@
   <a href="https://www.youtube.com/@yourchannelid" target="_blank">
     <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" />
   </a>
-  <a href="https://www.buymeacoffee.com/yourusername" target="_blank">
+  <a href="https://coff.ee/itsmittalharshit" target="_blank">
     <img src="https://img.shields.io/badge/Buy%20Me%20a%20Coffee-%23FFDD00.svg?&style=for-the-badge&logo=buy-me-a-coffee&logoColor=black" />
   </a>
 </p>
@@ -54,7 +54,7 @@
 - 💼 **LinkedIn**: [linkedin.com/in/theharshitmittal](https://linkedin.com/in/theharshitmittal)  
 - 📄 **Resume**: [Download Here](https://yourcvhost.com/Harshit_Mittal_CV.pdf)
 -  📺 **YouTube**: [youtube.com/@yourchannelid](https://www.youtube.com/@yourchannelid)
-- ☕ **Support**: [Buy Me a Coffee](https://www.buymeacoffee.com/yourusername)
+- ☕ **Support**: [Buy Me a Coffee](https://coff.ee/itsmittalharshit)
 
 ---
 
