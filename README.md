@@ -45,8 +45,8 @@
 
 ### 🛠️ Languages and Tools
 
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=python,cpp,git,linux,tensorflow,pytorch,opencv,github,vscode,sqlite,pandas" />
+<p align="centre">
+  <img src="https://skillicons.dev/icons?i=python,cpp,git,linux,tensorflow,pytorch,opencv,github,vscode,sqlite" />
 </p>
 
 ---
