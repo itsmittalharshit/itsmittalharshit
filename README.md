@@ -5,7 +5,7 @@
 </p>
 
 <h1 align="center">It's me, Harshit Mittal</h1>
-<h3 align="center">Passionate about AI, Flutter Development & Problem Solving</h3>
+<h3 align="center">Passionate about Machine Learning & Data Science, App Development in Flutter & Problem Solving</h3>
 
 <p align="center">
   <a href="https://linkedin.com/in/theharshitmittal" target="_blank">
