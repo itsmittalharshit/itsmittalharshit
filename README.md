@@ -17,7 +17,7 @@
   <a href="https://www.hackerrank.com/profile/mittalharshit99" target="_blank">
     <img src="https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white" />
   </a>
-  <a [Mittal_resume_final3.pdf](https://github.com/user-attachments/files/23510481/Mittal_resume_final3.pdf) target="_blank">
+  <a href=[Mittal_resume_final3.pdf](https://github.com/user-attachments/files/23510481/Mittal_resume_final3.pdf) target="_blank">
     <img src="https://img.shields.io/badge/Resume-%23ffbf00.svg?&style=for-the-badge&logo=adobeacrobatreader&logoColor=white" />
   </a>
 </p>
