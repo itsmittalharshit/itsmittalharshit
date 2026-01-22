@@ -46,4 +46,3 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&pause=1000&color=FF6B00&center=true&vCenter=true&width=435&lines=Coding+till+the+end+☕!;Right+to+program!;Let's+build+something+awesome!" />
 </p>
 
-[hmresume.pdf](https://github.com/user-attachments/files/24793940/hmresume.pdf)
