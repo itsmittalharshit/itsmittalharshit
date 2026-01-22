@@ -17,7 +17,7 @@
   <a href="https://www.hackerrank.com/profile/mittalharshit99" target="_blank">
     <img src="https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white" />
   </a>
-  <a href="https://github.com/user-attachments/files/23510481/Mittal_resume_final3.pdf" target="_blank">
+  <a href="[hmresume.pdf](https://github.com/user-attachments/files/24793940/hmresume.pdf)" target="_blank">
     <img src="https://img.shields.io/badge/Resume-%23ffbf00.svg?&style=for-the-badge&logo=adobeacrobatreader&logoColor=white" />
   </a>
 </p>
@@ -38,7 +38,7 @@
 
 - 📫 **Email**: mittalharshit99@gmail.com  
 - 💼 **LinkedIn**: [linkedin.com/in/theharshitmittal](https://linkedin.com/in/theharshitmittal)  
-- 📄 **Resume**: [resume.pdf](https://github.com/user-attachments/files/23510481/Mittal_resume_final3.pdf)
+- 📄 **Resume**: [hmresume.pdf](https://github.com/user-attachments/files/24793940/hmresume.pdf)
 
 ---
 
@@ -46,3 +46,4 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&pause=1000&color=FF6B00&center=true&vCenter=true&width=435&lines=Coding+till+the+end+☕!;Right+to+program!;Let's+build+something+awesome!" />
 </p>
 
+[hmresume.pdf](https://github.com/user-attachments/files/24793940/hmresume.pdf)
