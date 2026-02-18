@@ -17,7 +17,7 @@
   <a href="https://www.hackerrank.com/profile/mittalharshit99" target="_blank">
     <img src="https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white" />
   </a>
-  <a href="[hmresume.pdf](https://github.com/user-attachments/files/24793940/hmresume.pdf)" target="_blank">
+  <a href="[Data_Science_Resume.pdf](https://drive.google.com/file/d/1Q9mnzZhktjHNfQ3ztRKg5eKE3VqReyCM/view?usp=sharing)" target="_blank">
     <img src="https://img.shields.io/badge/Resume-%23ffbf00.svg?&style=for-the-badge&logo=adobeacrobatreader&logoColor=white" />
   </a>
 </p>
@@ -38,7 +38,7 @@
 
 - 📫 **Email**: mittalharshit99@gmail.com  
 - 💼 **LinkedIn**: [linkedin.com/in/theharshitmittal](https://linkedin.com/in/theharshitmittal)  
-- 📄 **Resume**: [hmresume.pdf](https://github.com/user-attachments/files/24793940/hmresume.pdf)
+- 📄 **Data_Science_Resume**: [Data_Science_Resume.pdf](https://drive.google.com/file/d/1Q9mnzZhktjHNfQ3ztRKg5eKE3VqReyCM/view?usp=sharing)
 
 ---
 
