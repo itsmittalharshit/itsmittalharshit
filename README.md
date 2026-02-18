@@ -18,7 +18,7 @@
     <img src="https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white" />
   </a>
   <a href="https://drive.google.com/file/d/1Q9mnzZhktjHNfQ3ztRKg5eKE3VqReyCM/view?usp=sharing" target="_blank">
-  <img src="https://img.shields.io/badge/Resume-%23ffbf00.svg?&style=for-the-badge&logo=adobeacrobatreader&logoColor=white" alt="Data_Science_Resume" />
+  <img src="https://img.shields.io/badge/DS_Resume-%23ffbf00.svg?&style=for-the-badge&logo=adobeacrobatreader&logoColor=white" alt="Data_Science_Resume" />
 </a>
 </p>
 
