@@ -11,17 +11,11 @@
 <p align="center">
   <a href="https://linkedin.com/in/theharshitmittal" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  
-  <a href="mailto:mittalharshit2109@gmail.com">
+  </a>&nbsp;<a href="mailto:mittalharshit2109@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-  
-  <a href="https://www.hackerrank.com/profile/mittalharshit99" target="_blank">
+  </a>&nbsp;<a href="https://www.hackerrank.com/profile/mittalharshit99" target="_blank">
     <img src="https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white" />
-  </a>
-  
-  <a href="https://drive.google.com/file/d/1Q9mnzZhktjHNfQ3ztRKg5eKE3VqReyCM/view?usp=sharing" target="_blank">
+  </a>&nbsp;<a href="https://drive.google.com/file/d/13wH2w6AwXKXs6gJxS1Rs59QkQteW71kT/view?usp=sharing" target="_blank">
   <img src="https://img.shields.io/badge/My_Resume-%23ffbf00.svg?&style=for-the-badge&logo=adobeacrobatreader&logoColor=white" alt="Data_Science_Resume" />
 </a>
 </p>
@@ -42,7 +36,7 @@
 
 - 📫 **Email**: mittalharshit2109@gmail.com 
 - 💼 **LinkedIn**: [linkedin.com/in/theharshitmittal](https://linkedin.com/in/theharshitmittal)  
-- 📄 **Data_Science_Resume**: [Data_Science_Resume.pdf](https://drive.google.com/file/d/1Q9mnzZhktjHNfQ3ztRKg5eKE3VqReyCM/view?usp=sharing)
+- 📄 **Data_Science_Resume**: [Resume.pdf](https://drive.google.com/file/d/13wH2w6AwXKXs6gJxS1Rs59QkQteW71kT/view?usp=sharing)
 
 ---
 
