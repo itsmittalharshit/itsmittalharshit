@@ -4,19 +4,15 @@
   <img src="https://i.pinimg.com/originals/79/9e/0d/799e0d7779f6ea6c3a89885ff60c55af.gif" alt="Tech Skills GIF" width="45%" />
 </p>
 
-<h1 align="center">🫰🏼 Welcome to My Page!🫰🏼</h1>
-<h1 align="center">👉🏼 I'm, Harshit Mittal 👈🏼</h1>
+<h1 align="center"> Welcome to My Page!</h1>
+<h1 align="center"> I'm, Harshit Mittal </h1>
 <h3 align="center">Working on Medical Imaging Using Deep Learning, Transformers & Data Analytics, App Development in Flutter & Problem Solving</h3>
 
 <p align="center">
   <a href="https://linkedin.com/in/theharshitmittal" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>&nbsp;<a href="mailto:mittalharshit2109@gmail.com">
+  </a>&nbsp;<a href="mailto:mittalharshit99@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>&nbsp;<a href="https://www.hackerrank.com/profile/mittalharshit99" target="_blank">
-    <img src="https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white" />
-  </a>&nbsp;<a href="https://drive.google.com/file/d/1sFj4EaibMKqNsExtoruZMV4frRBivAYt/view?usp=sharing" target="_blank">
-  <img src="https://img.shields.io/badge/My_Resume-%23ffbf00.svg?&style=for-the-badge&logo=adobeacrobatreader&logoColor=white" alt="Data_Science_Resume" />
 </a>
 </p>
 
@@ -34,9 +30,8 @@
 
 ### 🌐 Connect with Me!
 
-- 📫 **Email**: mittalharshit2109@gmail.com 
+- 📫 **Email**: mittalharshit99@gmail.com 
 - 💼 **LinkedIn**: [linkedin.com/in/theharshitmittal](https://linkedin.com/in/theharshitmittal)  
-- 📄 **Data_Science_Resume**: [Resume.pdf](https://drive.google.com/file/d/1sFj4EaibMKqNsExtoruZMV4frRBivAYt/view?usp=sharing)
 
 ---
 
