@@ -1,0 +1,146 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 320" width="1200" height="320" role="img" aria-label="Harshit Mittal — AI Engineer and Data Science. MSc Advanced Computer Science, University of Leeds. Open to roles in the UK and India.">
+  <title>Harshit Mittal — AI Engineer &amp; Data Science</title>
+
+  <defs>
+    <linearGradient id="sky" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#07496d"/>
+      <stop offset="45%" stop-color="#0b6fa4"/>
+      <stop offset="100%" stop-color="#38a9e4"/>
+    </linearGradient>
+
+    <linearGradient id="fade" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0%" stop-color="#ffffff" stop-opacity="0.16"/>
+      <stop offset="100%" stop-color="#ffffff" stop-opacity="0"/>
+    </linearGradient>
+
+    <radialGradient id="glow" cx="50%" cy="50%" r="50%">
+      <stop offset="0%" stop-color="#9ad9f7" stop-opacity="0.5"/>
+      <stop offset="100%" stop-color="#9ad9f7" stop-opacity="0"/>
+    </radialGradient>
+
+    <pattern id="grid" width="34" height="34" patternUnits="userSpaceOnUse">
+      <path d="M34 0H0V34" fill="none" stroke="#ffffff" stroke-opacity="0.07" stroke-width="1"/>
+    </pattern>
+
+    <clipPath id="frame"><rect x="0" y="0" width="1200" height="320" rx="20"/></clipPath>
+
+    <!-- Typed lines. Line 1 stays open by default so the banner still reads
+         correctly anywhere animation is ignored. -->
+    <clipPath id="wipe1"><rect x="56" y="152" height="34" width="520">
+      <animate attributeName="width" values="0;520;520;0;0" keyTimes="0;0.09;0.30;0.3005;1"
+               dur="13s" repeatCount="indefinite"/>
+    </rect></clipPath>
+
+    <clipPath id="wipe2"><rect x="56" y="152" height="34" width="0">
+      <animate attributeName="width" values="0;0;520;520;0;0" keyTimes="0;0.3334;0.4234;0.6334;0.6339;1"
+               dur="13s" repeatCount="indefinite"/>
+    </rect></clipPath>
+
+    <clipPath id="wipe3"><rect x="56" y="152" height="34" width="0">
+      <animate attributeName="width" values="0;0;520;520;0;0" keyTimes="0;0.6667;0.7567;0.9667;0.9672;1"
+               dur="13s" repeatCount="indefinite"/>
+    </rect></clipPath>
+  </defs>
+
+  <style>
+    .name { font-family: Georgia, "Times New Roman", serif; font-size: 56px; fill: #ffffff; }
+    .eye  { font-family: "Segoe UI", Helvetica, Arial, sans-serif; font-size: 14px; font-weight: 700;
+            letter-spacing: 4.5px; fill: #c3e6f9; }
+    .type { font-family: "SFMono-Regular", Consolas, "Liberation Mono", Menlo, monospace;
+            font-size: 22px; fill: #eaf6fd; }
+    .sub  { font-family: "Segoe UI", Helvetica, Arial, sans-serif; font-size: 16px; fill: #d3ebf9; }
+    .pill { font-family: "Segoe UI", Helvetica, Arial, sans-serif; font-size: 13px; font-weight: 600; fill: #08557f; }
+  </style>
+
+  <g clip-path="url(#frame)">
+    <rect width="1200" height="320" fill="url(#sky)"/>
+    <rect width="1200" height="320" fill="url(#grid)"/>
+    <rect width="640" height="320" fill="url(#fade)"/>
+
+    <!-- ambient light, drifting -->
+    <circle cx="1010" cy="150" r="235" fill="url(#glow)">
+      <animateTransform attributeName="transform" type="translate" values="0 0;0 -16;0 0"
+                        dur="11s" repeatCount="indefinite"/>
+    </circle>
+    <circle cx="720" cy="52" r="120" fill="url(#glow)" opacity="0.45">
+      <animateTransform attributeName="transform" type="translate" values="0 0;0 14;0 0"
+                        dur="15s" repeatCount="indefinite"/>
+    </circle>
+
+    <!-- waves along the base -->
+    <path fill="#ffffff" fill-opacity="0.15"
+          d="M0 268c110-30 210 26 320 26s210-56 320-56 210 56 320 56 210-56 320-56v82H0z">
+      <animateTransform attributeName="transform" type="translate" from="-640 0" to="0 0"
+                        dur="17s" repeatCount="indefinite"/>
+    </path>
+    <path fill="#ffffff" fill-opacity="0.1"
+          d="M0 288c140-24 240 20 380 20s240-44 380-44 240 44 380 44 240-44 380-44v76H0z">
+      <animateTransform attributeName="transform" type="translate" from="0 0" to="-760 0"
+                        dur="24s" repeatCount="indefinite"/>
+    </path>
+
+    <!-- inference graph: signal flows left to right -->
+    <g transform="translate(878 158)">
+      <g stroke="#cdeafb" stroke-width="1.4" stroke-opacity="0.7" fill="none" stroke-dasharray="4 7">
+        <path d="M0-70 L110-70"><animate attributeName="stroke-dashoffset" values="44;0" dur="2.4s" repeatCount="indefinite"/></path>
+        <path d="M0-70 L110 0"><animate attributeName="stroke-dashoffset" values="44;0" dur="3.1s" repeatCount="indefinite"/></path>
+        <path d="M0 0 L110-70"><animate attributeName="stroke-dashoffset" values="44;0" dur="2.8s" repeatCount="indefinite"/></path>
+        <path d="M0 0 L110 0"><animate attributeName="stroke-dashoffset" values="44;0" dur="2.2s" repeatCount="indefinite"/></path>
+        <path d="M0 0 L110 70"><animate attributeName="stroke-dashoffset" values="44;0" dur="3.4s" repeatCount="indefinite"/></path>
+        <path d="M0 70 L110 0"><animate attributeName="stroke-dashoffset" values="44;0" dur="2.6s" repeatCount="indefinite"/></path>
+        <path d="M0 70 L110 70"><animate attributeName="stroke-dashoffset" values="44;0" dur="3.6s" repeatCount="indefinite"/></path>
+        <path d="M110-70 L220 0"><animate attributeName="stroke-dashoffset" values="44;0" dur="2.9s" repeatCount="indefinite"/></path>
+        <path d="M110 0 L220 0"><animate attributeName="stroke-dashoffset" values="44;0" dur="2.3s" repeatCount="indefinite"/></path>
+        <path d="M110 70 L220 0"><animate attributeName="stroke-dashoffset" values="44;0" dur="3.2s" repeatCount="indefinite"/></path>
+      </g>
+      <g fill="#ffffff">
+        <circle cx="0" cy="-70" r="7"><animate attributeName="r" values="6;9;6" dur="3.6s" repeatCount="indefinite"/></circle>
+        <circle cx="0" cy="0" r="7"><animate attributeName="r" values="7;10;7" dur="4.2s" repeatCount="indefinite"/></circle>
+        <circle cx="0" cy="70" r="7"><animate attributeName="r" values="6;9;6" dur="3.1s" repeatCount="indefinite"/></circle>
+        <circle cx="110" cy="-70" r="8"><animate attributeName="r" values="8;11;8" dur="4.6s" repeatCount="indefinite"/></circle>
+        <circle cx="110" cy="0" r="8"><animate attributeName="r" values="7;10;7" dur="3.3s" repeatCount="indefinite"/></circle>
+        <circle cx="110" cy="70" r="8"><animate attributeName="r" values="8;11;8" dur="5.1s" repeatCount="indefinite"/></circle>
+        <circle cx="220" cy="0" r="10"><animate attributeName="r" values="9;13;9" dur="3.8s" repeatCount="indefinite"/></circle>
+      </g>
+    </g>
+
+    <!-- copy: fades up on load, visible by default -->
+    <g>
+      <animate attributeName="opacity" values="0;0;1" keyTimes="0;0.05;1" dur="0.9s" fill="freeze"/>
+      <animateTransform attributeName="transform" type="translate" values="0 14;0 14;0 0"
+                        keyTimes="0;0.05;1" dur="0.9s" fill="freeze"/>
+      <text class="eye" x="58" y="86">AI ENGINEER &#183; DATA SCIENCE</text>
+    </g>
+
+    <g>
+      <animate attributeName="opacity" values="0;0;1" keyTimes="0;0.18;1" dur="1.1s" fill="freeze"/>
+      <animateTransform attributeName="transform" type="translate" values="0 16;0 16;0 0"
+                        keyTimes="0;0.18;1" dur="1.1s" fill="freeze"/>
+      <text class="name" x="56" y="138">Harshit Mittal</text>
+    </g>
+
+    <g clip-path="url(#wipe1)"><text class="type" x="58" y="177">Deep learning that ships to production</text></g>
+    <g clip-path="url(#wipe2)"><text class="type" x="58" y="177">Computer vision for medical imaging</text></g>
+    <g clip-path="url(#wipe3)"><text class="type" x="58" y="177">On-device ML, offline by design</text></g>
+
+    <g>
+      <animate attributeName="opacity" values="0;0;1" keyTimes="0;0.35;1" dur="1.3s" fill="freeze"/>
+      <animateTransform attributeName="transform" type="translate" values="0 16;0 16;0 0"
+                        keyTimes="0;0.35;1" dur="1.3s" fill="freeze"/>
+      <text class="sub" x="58" y="217">MSc Advanced Computer Science &#183; University of Leeds &#183; Leeds, UK</text>
+    </g>
+
+    <g>
+      <animate attributeName="opacity" values="0;0;1" keyTimes="0;0.45;1" dur="1.5s" fill="freeze"/>
+      <animateTransform attributeName="transform" type="translate" values="0 16;0 16;0 0"
+                        keyTimes="0;0.45;1" dur="1.5s" fill="freeze"/>
+      <rect x="56" y="240" width="292" height="34" rx="17" fill="#ffffff" fill-opacity="0.93"/>
+      <circle cx="77" cy="257" r="4.5" fill="#12a150">
+        <animate attributeName="fill-opacity" values="1;0.3;1" dur="2.2s" repeatCount="indefinite"/>
+      </circle>
+      <text class="pill" x="92" y="262">Open to roles in the UK &amp; India</text>
+    </g>
+
+    <rect x="0.5" y="0.5" width="1199" height="319" rx="20" fill="none" stroke="#ffffff" stroke-opacity="0.18"/>
+  </g>
+</svg>
